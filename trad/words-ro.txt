@@ -1,0 +1,433 @@
+image,fr,en,ro
+temps.png,temps,weather,timp
+partiesducorps.png,corps,body,corp
+chiffres.png,chiffres,figures,cifre
+aliments.png,aliments,food,alimente
+vehicules.png,véhicules,vehicles,vehicule
+nature.png,nature,nature,natură
+emotionsetats.png,émotions et états,emotions and states,emoții și stări
+personnes.png,personnes,people,persoane
+animaux.png,animaux,animals,animale
+jours.png,jours,weekdays,zile
+actions.png,actions,actions,acțiuni
+objets.png,objets,objects,obiecte
+couleurs.png,couleurs,colors,culori
+lieux.png,lieux,places,locuri
+ustensiles.png,ustensiles,utensils,ustensile
+autres.png,divers,miscellaneous,diverse
+mobiliers.png,mobiliers,furniture,mobiliere
+jouets.png,jouets,toys,jucării
+vetements.png,vêtements,clothing,haine
+chaise.png,chaise,chair,scaun
+canape.png,canapé,sofa,canapea
+lit.png,lit,bed,pat
+tabouret.png,tabouret,stool,taburet
+fauteuil.png,fauteuil,armchair,fotoliu
+table.png,table,table,masă
+tableau.png,tableau,blackboard,tablă
+pailles.png,pailles,straws,paie
+casserole.png,casserole,pans,oală
+ferarepasser.png,fer a repasser,ironer,fier de călcat
+tournevis.png,tournevis,screwdriver,șurubelniță
+couverts.png,couverts,cutlery,tacâmuri
+bol.png,bol,bowl,bol
+brosse.png,brosse,brush,perie
+louche.png,louche,ladle,polonic
+fourchette.png,fourchette,fork,furculiță
+ciseaux.png,ciseaux,scissors,foarfecă
+bouilloire.png,bouilloire,kettle,fierbător
+tasse.png,tasse,cup,ceașcă
+lunettes.png,lunettes,glasses,ochelari
+slip.png,slip,underpants,chilot
+serviettes.png,serviettes,towels,prosoape
+pantalon.png,pantalon,pants,pantaloni
+casquette.png,casquette,cap,șapcă
+manteau.png,manteau,coat,mantou
+gants.png,gants,glove,mănuși
+pyjama.png,pyjama,pyjamas,pijamale
+chemisedenuit.png,chemise de nuit,nightdress,cămașă de noapte
+soutiengorge.png,soutien-gorge,bra,sutien
+chaussures.png,chaussures,shoes,încălțări
+tablier.png,tablier,apron,șorț
+bottes.png,bottes,boots,cizme
+salopette.png,salopette,overalls,salopetă
+robe.png,robe,dresse,rochie
+pull.png,pull,sweater,pulovăr
+couche.png,couche,diaper,scutec
+coussins.png,coussins,pillow,pernă
+horloge.png,horloge,clock,ceas
+loupe.png,loupe,magnifying glass,lupă
+cle.png,clé,key,cheie
+ordinateur.png,ordinateur,computer,calculator
+machinealaver.png,machine à laver,washing machine,mașină de spălat
+taillecrayon.png,taille-crayon,sharpener,ascuțitoare
+protectionsolaire.png,protection solaire,sunscreen,protecție de soare
+peigne.png,peigne,comb,perie
+shampoing.png,shampoing,shampoo,șampon
+neige.png,neige,snow,zăpadă
+livre.png,livre,book,carte
+gomme.png,gomme,rubber,radieră
+marteau.png,marteau,hammer,ciocan
+secours.png,secours,rescue,ajutor
+poubelle.png,poubelle,trash can,coș
+ventilateur.png,ventilateur,fan,ventilator
+rasoir.png,rasoir,razor,aparat de ras
+feu.png,feu,fire,foc
+sacados.png,sac-à-dos,backpack,rucsac
+sacamain.png,sac-à-main,handbag,geantă
+cendrier.png,cendrier,ashtray,scrumieră
+soleil.png,soleil,sun,soare
+mirroir.png,mirroir,mirror,oglindă
+parapluie.png,parapluie,umbrella,umbrelă
+cartable.png,cartable,schoolbag,ghiozdan
+mobile.png,mobile,cell,mobil
+feudartifice.png,feu d'artifice,fireworks,artificii
+bouledelaine.png,laine,wool ball,lână
+savon.png,savon,soap,săpun
+colle.png,colle,glue,lipici
+velo.png,vélo,bike,bicicletă
+tambour.png,tambour,drum,tobă
+ours.png,ours,bear,urs
+poupee.png,poupée,doll,păpușă
+trampoline.png,trampoline,trampoline,trambulină
+tapecul.png,tape-cul,seesaw,balansoar
+ballon.png,ballon,ballon,balon
+trottinette.png,trottinette,scooter,trotinetă
+pingpong.png,ping pong,ping pong,ping pong
+jumelles.png,jumelles,binoculars,binoclu
+cerfvolant.png,cerf-volant,kite,zmeu
+cartes.png,cartes,cards,cărți
+pinceaux.png,pinceaux,paintbrush,perie
+frisbee.png,frisbee,frisbee,frisbee
+tennis.png,tennis,tennis,tenis
+consoledejeux.png,console de jeux,game console,consolă de jocuri
+feutres.png,feutres,felt pen,carioci
+puzzle.png,puzzle,puzzle,puzzle
+peluches.png,peluches,stuffed animals,plușuri
+pistolet.png,pistolet,handgun,pistol
+baladeur.png,baladeur,walkman,walkman
+luge.png,luge,sledge,sanie
+biscuits.png,biscuits,biscuits,biscuiți
+eau.png,eau,water,apă
+beurre.png,beurre,butter,unt
+lait.png,lait,milk,lapte
+sucre.png,sucre,sugar,zahăr
+riz.png,riz,rice,orez
+pates.png,pates,pasta,paste
+crepes.png,crêpes,pancakes,clătite
+dessert.png,dessert,dessert,desert
+pain.png,pain,bread,pâine
+bonbon.png,bonbon,candy,bomboană
+gateau.png,gâteau,cake,prăjitură
+fruitslegumes.png,fruits et légumes,fruits and vegetables,fructe și legume
+yaourt.png,yaourt,yogurt,iaurt
+cereales.png,céréales,cereals,cereale
+viande.png,viande,meat,carne
+friandises.png,bonbons,sweetmeat,dulciuri
+confiture.png,confiture,jam,dulceață
+hamburger.png,hamburger,hamburger,hamburger
+alcool.png,alcool,alcohol,alcool
+ketchup.png,ketchup,ketchup,ketchup
+chocolat.png,chocolat,chocolate,ciocolată
+sel.png,sel,salt,sare
+limonade.png,limonade,limonade,limonadă
+saucisson.png,saucisson,sausage,cârnat
+soda.png,soda,soda,suc
+frites.png,frites,fries,cartofi prăjiți
+betteraves.png,bétteraves,beets,sfeclă
+glace.png,glace,icecream,înghețată
+oeuf.png,oeuf,eggs,ouă
+pasteque.png,pastèque,watermelons,pepene roșu
+fraise.png,fraise,strawberry,căpșună
+cerises.png,cerises,cherry,cireașă
+haricots.png,haricots,beans,fasole verde
+prune.png,prune,plums,prune
+noix.png,noix,nuts,nuci
+poireau.png,poireau,leek,praz
+bananes.png,bananes,bananas,banane
+citron.png,citron,lemon,lămâie
+aubergine.png,aubergine,eggplant,vânătă
+laitue.png,laitue,lettuce,salată
+melon.png,melon,melon,pepene galben
+carotte.png,carotte,carotts,morcovi
+kiwi.png,kiwi,kiwi,kizi
+poire.png,poire,pear,pară
+raisins.png,raisins,grappes,struguri
+tomate.png,tomate,tomato,roșie
+pomme.png,pomme,apple,măr
+medecin.png,médecin,doctor,doctor
+nous.png,nous,us,noi
+amis.png,amis,friends,prieteni
+lui.png,lui,him,el
+tousensemble.png,tous ensemble,together,toți împreună
+soeur.png,soeur,sister,soră
+homme.png,homme,man,bărbat
+femme.png,femme,woman,femeie
+frere.png,frère,brother,frate
+vous.png,vous,you,vouă
+moi.png,je,I,eu
+maman.png,maman,mom,mamă
+grandsparents.png,grands-parents,grandparents,bunici
+famille.png,famille,family,familie
+enseignante.png,enseignante,teacher,profesoară
+toi.png,toi,you,tu
+qui.png,qui,whom,cine
+elle.png,elle,her,ea
+papa.png,papa,dad,tată
+quatre.png,quatre,four,patru
+huit.png,huit,eight,opt
+six.png,six,six,șase
+neuf.png,neuf,nine,nouă
+trois.png,trois,three,trei
+cinq.png,cinq,five,cinci
+un.png,un,one,unu
+sept.png,sept,seven,șapte
+deux.png,deux,two,doi
+porter.png,porter,to carry,a purta
+pousser.png,pousser,to push,a împinge
+sebrosserlesdents.png,brosser les dents,to brush teeth,a se spăla pe dinți
+mettredesvetementspropres.png,mettre des vêtements,to put clean clothes,a se îmbrăca
+chercher.png,chercher,to search,a căuta
+soulever.png,soulever,to raise,a ridica
+sebruler.png,se bruler,to burn,a se arde
+nepastirerlalangue.png,ne doit pas tirer la langue,do not pull the tongue,nu scoate limba
+travailler.png,travailler,to work,a lucra
+deplacer.png,déplacer,to move,a mișca
+nepasfrapper.png,ne doit pas frapper,do not hit,să nu lovești
+laverlescheveux.png,laver les cheveux,to wash your hair,a se spăla pe cap
+nepaspincer.png,ne pas pincer,do not pinch,să nu ciupești
+ouvrir.png,ouvrir,to open,a deschide
+penser.png,penser,to think,a se gândi
+nepasignorer.png,ne doit pas ignorer,do not ignore,să nu ignori
+frapper.png,frapper,to hit,a lovi
+reflechir.png,réflechir,to reflect,a reflecta
+choisir.png,choisir,to choose,a alege
+nepastirerlescheveux.png,ne dois pas tirer les cheveux, do not pull hair,să nu tragi de păr
+melanger.png,mélanger,to mix,a amesteca
+nepascrier.png,ne dois pas crier,do not cry,să nu țipi
+entendre.png,entendre,to ear,a auzi
+raconter.png,raconter,to tell,a povesti
+jouerdelamusique.png,jouer de la musique,to play music,a cânta
+avoirfaim.png,avoir faim,to be hungry,a-i fi foame
+lire.png,lire,to read,a citi
+separler.png,se parler,to talk,a merge
+nepasfumer.png,ne dois pas fumer,do not smoke,interzis fumatul
+preparersonsac.png,préparer son sac,to prepare the bag,a-și pregăti ghiozdanul
+sedisputer.png,se disputer,to argue,a se certa
+skier.png,skier,skiing,skia
+tirerlescheveux.png,tirer les cheveux,to pull the hair,trage de păr
+sasseoir.png,s'asseoir,to sit,a se așeza
+fairecuire.png,faire cuire,to bake,a coace
+donner.png,donner,to give,a da
+nepascracher.png,ne dois pas cracher,do not spit,să nu scuipi
+fermer.png,fermer,to close,a închide
+sesentirmal.png,se sentir mal,to feel sad,a se simți supărat
+direbonjour.png,dire bonjour,to say hello,a saluta
+sesoigner.png,se soigner,to cure oneself,a se îngriji
+appuyez.png,appuyez,to press,apăsați
+poserunequestion.png,poser une question,to ask,a pune o întrebare
+nepasjeterlesjouets.png,ne pas jeter les jouets,do not throw toys,a nu arunca jucăriile
+sortirlechien.png,sortir le chien,to walk the dog,a plimba câinele
+dormir.png,dormir,to sleep,a dormi
+ignorer.png,ignorer,to ignore,a ignora
+nepasedisputer.png,ne pas se disputer,do not argue,a nu se certa
+toucher.png,toucher,to touch,a atinge
+siffler.png,siffler,to whistle,a sufla
+nepasmentir.png,ne pas mentir,do not lie,a nu minți
+nager.png,nager,to swim,a înota
+seraser.png,se raser,to shave,a se rade
+etudier.png,étudier,to study,a învăța
+mentir.png,mentir,to lie,a minți
+sonner.png,sonner,to ring,a suna
+ramasser.png,ramasser,to pick up,a strânge
+nepasvoler.png,ne pas voler,do not steal,a nu fura
+gommer.png,gommer,to erase,a șterge
+viderlespoubelles.png,vider les poubelles,to empty the trash,a duce gunoiul
+fumer.png,fumer,to smoke,a fuma
+habiter.png,habiter,to live,a locui
+demanderdelaide.png,demander de l'aide,to ask for help,a cere ajutor
+questionner.png,questionner,to question,a întreba
+sepeigner.png,se peigner,to comb,a se pieptăna
+sedoucher.png,se doucher,to take a shower,a face duș
+sennuyer.png,s'ennuyer,to be bored,a se plictisi
+echanger.png,échanger,to exchange,a schimba
+courir.png,courir,to run,a alerga
+patiner.png,patiner,to skate,a patina
+voler.png,voler,to steal,a fura
+rentrer.png,rentrer,to come in,a intra
+sepromener.png,se promener,to walk,a se plimba
+regarder.png,regarder,to look,a se uita
+avoirdesinsomnies.png,avoir des insomnies,to have insomnia,a avea insomnii
+nepassebattre.png,ne pas se battre,do not fight,a nu se bate
+essuyer.png,essuyer,to wipe,a șterge
+rangersachambre.png,ranger sa chambre,to clean his room,a face curățenie în cameră
+gagner.png,gagner,to win,a câștiga
+creuser.png,creuser,to dig,a săpa
+aspirer.png,aspirer,to breathe in,a aspira
+emballer.png,emballer,to pack,a împacheta
+interdire.png,interdire,to forbit,a interzice
+construire.png,construire,to build,a construi
+voyager.png,voyager,to travel,a călători
+pecher.png,pêcher,to fish,a pescui
+chanter.png,chanter,to sing,a cânta
+direnon.png,dire non,to say no,a zice nu
+fairesesdevoirs.png,faire ses devoirs,to do homework,a-și face lecțiile
+serpromenerensemble.png,se promener ensemble,to walk together,a se plimba împreună
+entrer.png,entrer,to get in,a intra
+nettoyer.png,nettoyer,to clean,a curăța
+cracher.png,cracher,to spit,a scuipa
+suer.png,suer,to sweat,a transpira
+sessuier.png,s'essuier,to wipe oneself,a se șterge
+monterescalier.png,monter les escalier,to climb stairs,a urca scările
+pincer.png,pincer,to pinch,a ciupi
+voir.png,voir,to see,a vedea
+fairelescourses.png,faire les courses,to do shopping,a face cumpărăturile
+consoler.png,consoler,to comfort,a consola
+semoucher.png,se moucher,to snuff,a-și șterge nasul
+manger.png,manger,to eat,a mânca
+shabiller.png,s'habiller,to get dressed,a se îmbrăca
+sepeser.png,se peser,to weigh,a se cântări
+deposer.png,déposer,to put down,a pune jos
+boire.png,boire,to drink,a bea
+direoui.png,dire oui,to say yes,a spune da
+traverser.png,traverser,to cross,a traversa
+selaverlesmains.png,se laver les mains,to wish hands,a se spăla pe mâini
+sembrasser.png,s'embrasser,to embrace,a îmbrățișa
+nepastoucher.png,ne pas toucher,do not touch,a nu atinge
+mesurer.png,mesurer,to measure,a măsura
+mettre.png,mettre,to put,a pune
+sentir.png,sentir,to smell,a mirosi
+camper.png,camper,to camp,a campa
+faireunbisou.png,faire un bisou,to kiss,a pupa
+danser.png,danser,to dance,a dansa
+crier.png,crier,to scream,a țipa
+nepaspousser.png,ne pas pousser,do not push,să nu împingi
+brun.png,brun,brown,maro
+rouge.png,rouge,red,roșu
+jaune.png,jaune,yellow,galben
+orange.png,orange,orange,portocaliu
+gris.png,gris,grey,gri
+noir.png,noir,black,negru
+bleu.png,bleu,blue,albastru
+rose_color.png,rose,pink,roz
+blanc.png,blanc,white,alb
+vert.png,vert,green,verde
+violet.png,violet,purple,violet
+police.png,police,police,poliție
+train.png,train,train,tren
+ambulance.png,ambulance,ambulance,ambulanță
+tracteur.png,tracteur,tractor,tractor
+pompier.png,pompier,firefighter,pompier
+bateau.png,bateau,ship,vapor
+voiture.png,voiture,car,mașină
+moto.png,moto,bike,motocicletă
+camion.png,camion,truck,camion
+avion.png,avion,plane,avion
+ventre.png,ventre,belly,burtă
+coeur.png,coeur,heart,inimă
+oeil.png,oeil,eye,ochi
+index.png,index,forefinger,arătător
+nez.png,nez,nose,nas
+bras.png,bras,arm,braț
+langue.png,langue,tongue,limbă
+poitrine.png,poitrine,chest,piept
+poing.png,poing,fist,pumn
+tete.png,tête,head,cap
+cou.png,cou,neck,gât
+mains.png,mains,hands,mâini
+jambes.png,jambes,legs,picioare
+dos.png,dos,back,spate
+genou.png,genou,knee,genunchi
+oreille.png,oreille,ear,ureche
+pieds.png,pieds,feet,laba piciorului
+pelouse.png,pelouse,lawn,peluză
+tournesol.png,tournesol,sunflower,floarea soarelui
+rose.png,rose,rose,trandafir
+arbre.png,arbre,tree,copac
+tulipe.png,tulipe,tulip,lalea
+mouton.png,mouton,sheep,oaie
+zebre.png,zèbre,zebra,zebră
+chat.png,chat,cat,pisică
+cheval.png,cheval,horse,cal
+papillon.png,papillon,butterfly,fluture
+poney.png,poney,pony,poney
+canard.png,canard,duck,rață
+tortue.png,tortue,turtle,broască țestoasă
+araignee.png,araignée,spider,păianjen
+lapin.png,lapin,rabbit,iepure
+cochon.png,cochon,pig,porc
+oiseau.png,oiseau,bird,pasăre
+chenille.png,chenille,caterpillar,omidă
+poisson.png,poisson,fish,pește
+guepe.png,guêpe,wasp,viespe
+chien.png,chien,dog,câine
+oie.png,oie,goose,gâscă
+crabe.png,crabe,crab,crap
+lion.png,lion,lion,leu
+coquillage.png,coquillage,shell,cochilie
+grenouille.png,grenouille,frog,broască
+pigeon.png,pigeon,pigeon,porumbel
+vache.png,vache,cow,vacă
+avanthier.png,avant hier,day before yesterday,alaltăieri
+hier.png,hier,yesterday,ieri
+demain.png,demain,tomorrow,mâine
+apresdemain.png,après-demain,day after tomorrow,poimâine
+aujourdhui.png,aujourd'hui,today,astăzi
+fache.png,fâché,angry,supărat
+fatigue.png,fatigué,tired,obosit
+mechant.png,méchant,evil,rău
+malheureux.png,malheureux,unhappy,nefericit
+peur.png,peur,fear,frică
+savoureux.png,savoureux,tasty,gustos
+impatient.png,impatient,impatient,nerăbdător
+maldegorge.png,mal de gorge,sore throat,durere de gât
+fier.png,fier,proud,mândru
+embarrasse.png,embarrassé,embarassed,jenat
+pleurer.png,pleurer,to weep,a plânge
+chaud.png,chaud,hot,cald
+timide.png,timide,shy,timid
+avoirmalauxdents.png,avoir mal aux dents,toothache,a-l durea dinții
+gentil.png,gentil,nice,drăguț
+etremalade.png,etre malade,to be sick,a fi bolnav
+heureux.png,heureux,happy,fericit
+etonne.png,étonné,suprised,mirat
+emu.png,ému,moved,emoționat
+bien.png,bien,good,bine
+mauvais.png,mauvais,bad,rău
+fort.png,fort,strong,puternic
+rire.png,rire,to laugh,a râde
+medecin.png,médecin,doctor,doctor
+plage.png,plage,beach,plajă
+jardin.png,jardin,garden,grădină
+hopital.png,hopital,hospital,spital
+zoo.png,zoo,zoo,grădină zoologică
+coiffeur.png,coiffeur,hairdresser,coafor
+toilette.png,toilette,toilet,toaletă
+toboggan.png,toboggan,toboggan,topogan
+route.png,route,road,drum
+terraindefoot.png,terrain de foot,football field,teren de fotbal
+maison.png,maison,house,casă
+grenier.png,grenier,attic,pod
+salledebain.png,salle de bain,bathroom,sală de baie
+ecole.png,école,school,școală
+chambre.png,chambre,bedroom,cameră
+cuisine.png,cuisine,kitchen,bucătărie
+cave.png,cave,cellar,pivniță
+garage.png,garage,garage,garaj
+parcdattraction.png,parc d'attraction,amusement park,parc de atracții
+aeroport.png,aéroport,airport,aeroport
+magasin.png,magasin,store,magazin
+grele.png,grêle,hail,grindină
+ete.png,été,summer,vară
+hiver.png,hiver,winter,iarnă
+jour.png,jour,day,zi
+neige.png,neige,snow,zăpadă
+weekend.png,weekend,weekend,weekend
+orage.png,orage,storm,furtună
+pluie.png,pluie,rain,ploaie
+tempete.png,tempête,tempest,furtună
+automne.png,automne,autumn,toamnă
+vent.png,vent,wind,vânt
+nuit.png,nuit,night,noapte
+printemps.png,printemps,spring,primăvară
+bols.png,bols,bolws,boluri

@@ -1,0 +1,433 @@
+image,fr,en,de
+temps.png,temps,weather,Wetter
+partiesducorps.png,corps,body,Körper
+chiffres.png,chiffres,figures,Zahlen
+aliments.png,aliments,food,Lebensmittel
+vehicules.png,véhicules,vehicles,Fahrzeuge
+nature.png,nature,nature,Natur
+emotionsetats.png,émotions et états,emotions and states,Gefühle und Zustände
+personnes.png,personnes,people,Leuten
+animaux.png,animaux,animals,Tiere
+jours.png,jours,weekdays,Tage
+actions.png,actions,actions,Aktionen
+objets.png,objets,objects,Gegenständen
+couleurs.png,couleurs,colors,Farben
+lieux.png,lieux,places,Orte
+ustensiles.png,ustensiles,utensils,Kochutensilien
+autres.png,divers,miscellaneous,Verschiedenes
+mobiliers.png,mobiliers,furniture,Möbel
+jouets.png,jouets,toys,Spielzeug
+vetements.png,vêtements,clothing,Kleidung
+chaise.png,chaise,chair,Stuhl
+canape.png,canapé,sofa,Sofa
+lit.png,lit,bed,Bett
+tabouret.png,tabouret,stool,Hocker
+fauteuil.png,fauteuil,armchair,Sessel
+table.png,table,table,Tisch
+tableau.png,tableau,blackboard,Tabelle
+pailles.png,pailles,straws,Strohhalmen
+casserole.png,casserole,pans,Kochtopf
+ferarepasser.png,fer a repasser,ironer,Bügeleisen
+tournevis.png,tournevis,screwdriver,Schraubendreher
+couverts.png,couverts,cutlery,Besteck
+bol.png,bol,bowl,Schüssel
+brosse.png,brosse,brush,Bürsten
+louche.png,louche,ladle,Schöpfkelle
+fourchette.png,fourchette,fork,Gabel
+ciseaux.png,ciseaux,scissors,Schere
+bouilloire.png,bouilloire,kettle,Kessel
+tasse.png,tasse,cup,Tasse
+lunettes.png,lunettes,glasses,Brille
+slip.png,slip,underpants,Unterhosen
+serviettes.png,serviettes,towels,Serviette
+pantalon.png,pantalon,pants,Hose
+casquette.png,casquette,cap,Kappe
+manteau.png,manteau,coat,Mantel
+gants.png,gants,glove,Handschuhe
+pyjama.png,pyjama,pyjamas,Pyjama
+chemisedenuit.png,chemise de nuit,nightdress,Nachthemd
+soutiengorge.png,soutien-gorge,bra,Büstenhalter
+chaussures.png,chaussures,shoes,Schuhe
+tablier.png,tablier,apron,Schürze
+bottes.png,bottes,boots,Stiefel
+salopette.png,salopette,overalls,Latzhose
+robe.png,robe,dresse,Kleid
+pull.png,pull,sweater,Pullover
+couche.png,couche,diaper,Winde
+coussins.png,coussins,pillow,Kissen
+horloge.png,horloge,clock,Uhr
+loupe.png,loupe,magnifying glass,Lupe
+cle.png,clé,key,Schlüssel
+ordinateur.png,ordinateur,computer,Computer
+machinealaver.png,machine à laver,washing machine,Waschmaschine
+taillecrayon.png,taille-crayon,sharpener,Bleistiftspitzer
+protectionsolaire.png,protection solaire,sunscreen,Sonnenschutz
+peigne.png,peigne,comb,Kamm
+shampoing.png,shampoing,shampoo,Shampoo
+neige.png,neige,snow,Schnee
+livre.png,livre,book,Buch
+gomme.png,gomme,rubber,Gummi
+marteau.png,marteau,hammer,Hammer
+secours.png,secours,rescue,Nothilfe
+poubelle.png,poubelle,trash can,Mülleimer
+ventilateur.png,ventilateur,fan,Ventilator
+rasoir.png,rasoir,razor,Rasiermesser
+feu.png,feu,fire,Feuer
+sacados.png,sac-à-dos,backpack,Rucksack
+sacamain.png,sac-à-main,handbag,Handtasche
+cendrier.png,cendrier,ashtray,Aschenbecher
+soleil.png,soleil,sun,Sonne
+mirroir.png,mirroir,mirror,Spiegel
+parapluie.png,parapluie,umbrella,Regenschirm
+cartable.png,cartable,schoolbag,Schulranzen
+mobile.png,mobile,cell,Handy
+feudartifice.png,feu d'artifice,fireworks,Feuerwerk
+bouledelaine.png,laine,wool ball,Wolle
+savon.png,savon,soap,Seife
+colle.png,colle,glue,Klebstoff
+velo.png,vélo,bike,Fahrrad
+tambour.png,tambour,drum,Trommel
+ours.png,ours,bear,Bär
+poupee.png,poupée,doll,Puppe
+trampoline.png,trampoline,trampoline,Trampolin
+tapecul.png,tape-cul,seesaw,Wippe
+ballon.png,ballon,ballon,Ballon
+trottinette.png,trottinette,scooter,Tretroller
+pingpong.png,ping pong,ping pong,Tischtennis
+jumelles.png,jumelles,binoculars,Fernglas
+cerfvolant.png,cerf-volant,kite,Drachen
+cartes.png,cartes,cards,Karten
+pinceaux.png,pinceaux,paintbrush,Pinseln
+frisbee.png,frisbee,frisbee,Frisbee
+tennis.png,tennis,tennis,Tennis
+consoledejeux.png,console de jeux,game console,Spielkonsole
+feutres.png,feutres,felt pen,Filzen
+puzzle.png,puzzle,puzzle,Puzzle
+peluches.png,peluches,stuffed animals,Plüschtiere
+pistolet.png,pistolet,handgun,Pistole
+baladeur.png,baladeur,walkman,Walkman
+luge.png,luge,sledge,Schlitten
+biscuits.png,biscuits,biscuits,Kekse
+eau.png,eau,water,Wasser
+beurre.png,beurre,butter,Butter
+lait.png,lait,milk,Milch
+sucre.png,sucre,sugar,Zucker
+riz.png,riz,rice,Reis
+pates.png,pates,pasta,Nudeln
+crepes.png,crêpes,pancakes,Pfannkuchen
+dessert.png,dessert,dessert,Dessert
+pain.png,pain,bread,Brot
+bonbon.png,bonbon,candy,Süßigkeiten
+gateau.png,gâteau,cake,Kuchen
+fruitslegumes.png,fruits et légumes,fruits and vegetables,Obst und Gemüse
+yaourt.png,yaourt,yogurt,Joghurt
+cereales.png,céréales,cereals,Getreide
+viande.png,viande,meat,Fleisch
+friandises.png,bonbons,sweetmeat,Süßigkeiten
+confiture.png,confiture,jam,Marmelade
+hamburger.png,hamburger,hamburger,Hamburger
+alcool.png,alcool,alcohol,Alkohol
+ketchup.png,ketchup,ketchup,Ketchup
+chocolat.png,chocolat,chocolate,Schokolade
+sel.png,sel,salt,Salz
+limonade.png,limonade,limonade,Limonade
+saucisson.png,saucisson,sausage,Wurst
+soda.png,soda,soda,Soda
+frites.png,frites,fries,Pommes frites
+betteraves.png,bétteraves,beets,Rüben
+glace.png,glace,icecream,Eis
+oeuf.png,oeuf,eggs,Ei
+pasteque.png,pastèque,watermelons,Wassermelone
+fraise.png,fraise,strawberry,Erdbeere
+cerises.png,cerises,cherry,Kirschen
+haricots.png,haricots,beans,Bohnen
+prune.png,prune,plums,Pflaume
+noix.png,noix,nuts,Nüsse
+poireau.png,poireau,leek,Lauch
+bananes.png,bananes,bananas,Bananen
+citron.png,citron,lemon,Zitrone
+aubergine.png,aubergine,eggplant,Aubergine
+laitue.png,laitue,lettuce,Salat
+melon.png,melon,melon,Melone
+carotte.png,carotte,carotts,Karotte
+kiwi.png,kiwi,kiwi,Kiwi
+poire.png,poire,pear,Birne
+raisins.png,raisins,grappes,Trauben
+tomate.png,tomate,tomato,Tomate
+pomme.png,pomme,apple,Apfel
+medecin.png,médecin,doctor,Artz
+nous.png,nous,us,wir
+amis.png,amis,friends,Freunde
+lui.png,lui,him,ihn
+tousensemble.png,tous ensemble,together,zusammen
+soeur.png,soeur,sister,Schwester
+homme.png,homme,man,Mann
+femme.png,femme,woman,Frau
+frere.png,frère,brother,Bruder
+vous.png,vous,you,ihr
+moi.png,je,I,ich
+maman.png,maman,mom,Mama
+grandsparents.png,grands-parents,grandparents,Großeltern
+famille.png,famille,family,Familie
+enseignante.png,enseignante,teacher,Lehrerin
+toi.png,toi,you,du
+qui.png,qui,who,wer
+elle.png,elle,her,sie
+papa.png,papa,dad,Papa
+quatre.png,quatre,four,vier
+huit.png,huit,eight,acht
+six.png,six,six,sechs
+neuf.png,neuf,nine,neun
+trois.png,trois,three,drei
+cinq.png,cinq,five,fünf
+un.png,un,one,eins
+sept.png,sept,seven,sieben
+deux.png,deux,two,zwei
+porter.png,porter,to carry,tragen
+pousser.png,pousser,to push,drücken
+sebrosserlesdents.png,brosser les dents,to brush teeth,Zähne putzen
+mettredesvetementspropres.png,mettre des vêtements,to put clean clothes,Kleider anziehen
+chercher.png,chercher,to search,suchen
+soulever.png,soulever,to raise,heben
+sebruler.png,se bruler,to burn,sich brennen
+nepastirerlalangue.png,ne doit pas tirer la langue,do not pull the tongue,nicht die Zunge zeigen
+travailler.png,travailler,to work,arbeiten
+deplacer.png,déplacer,to move,bewegen
+nepasfrapper.png,ne doit pas frapper,do not hit,nicht schlagen
+laverlescheveux.png,laver les cheveux,to wash your hair,Haare waschen
+nepaspincer.png,ne pas pincer,do not pinch,nicht kneifen
+ouvrir.png,ouvrir,to open,öffnen
+penser.png,penser,to think,denken
+nepasignorer.png,ne doit pas ignorer,do not ignore,nicht ignorieren
+frapper.png,frapper,to hit,treffen
+reflechir.png,réflechir,to reflect,überlegen
+choisir.png,choisir,to choose,wählen
+nepastirerlescheveux.png,ne doit pas tirer les cheveux, do not pull hair,die Haaren ziehen
+melanger.png,mélanger,to mix,mischen
+nepascrier.png,ne doit pas crier,do not cry,nicht schreien
+entendre.png,entendre,to ear,hören
+raconter.png,raconter,to tell,erzählen
+jouerdelamusique.png,jouer de la musique,to play music,Musik spielen
+avoirfaim.png,avoir faim,to be hungry,Hunger haben
+lire.png,lire,to read,lesen
+separler.png,se parler,to talk,sprechen
+nepasfumer.png,ne doit pas fumer,do not smoke,nicht rauchen
+preparersonsac.png,préparer son sac,to prepare the bag,die Tasche bereiten
+sedisputer.png,se disputer,to argue,sich streiten
+skier.png,skier,skiing,skifahren
+tirerlescheveux.png,tirer les cheveux,to pull the hair,die Haare ziehen
+sasseoir.png,s'asseoir,to sit,sitzen
+fairecuire.png,faire cuire,to bake,backen
+donner.png,donner,to give,geben
+nepascracher.png,ne dois pas cracher,do not spit,nicht spucken
+fermer.png,fermer,to close,schließen
+sesentirmal.png,se sentir mal,to feel sad,sich nicht wohl fühlen
+direbonjour.png,dire bonjour,to say hello,Hallo sagen
+sesoigner.png,se soigner,to cure oneself,sich heilen
+appuyez.png,appuyez,to press,drücken
+poserunequestion.png,poser une question,to ask,fragen
+nepasjeterlesjouets.png,ne pas jeter les jouets,do not throw toys,nicht werfen Spielzeug
+sortirlechien.png,sortir le chien,to walk the dog,Mit dem Hund spazieren
+dormir.png,dormir,to sleep,schlafen
+ignorer.png,ignorer,to ignore,ignorieren
+nepasedisputer.png,ne pas se disputer,do not argue,nicht streiten
+toucher.png,toucher,to touch,berühren
+siffler.png,siffler,to whistle,pfeifen
+nepasmentir.png,ne pas mentir,do not lie,nicht lügen
+nager.png,nager,to swim,schwimmen
+seraser.png,se raser,to shave,rasieren
+etudier.png,étudier,to study,studieren
+mentir.png,mentir,to lie,lügen
+sonner.png,sonner,to ring,klingeln
+ramasser.png,ramasser,to pick up,abholen
+nepasvoler.png,ne pas voler,do not steal,nicht stehlen
+gommer.png,gommer,to erase,löschen
+viderlespoubelles.png,vider les poubelles,to empty the trash,die Mülleimer leeren
+fumer.png,fumer,to smoke,rauchen
+habiter.png,habiter,to live,wohnen
+demanderdelaide.png,demander de l'aide,to ask for help,um Hilfe bitten
+questionner.png,questionner,to question,hinterfragen
+sepeigner.png,se peigner,to comb,kämmen
+sedoucher.png,se doucher,to take a shower,duschen
+sennuyer.png,s'ennuyer,to be bored,sich langweilen
+echanger.png,échanger,to exchange,austauchen
+courir.png,courir,to run,laufen
+patiner.png,patiner,to skate,eislaufen
+voler.png,voler,to steal,stehlen
+rentrer.png,rentrer,to come in,eintreten
+sepromener.png,se promener,to walk,spazieren
+regarder.png,regarder,to look,schauen
+avoirdesinsomnies.png,avoir des insomnies,to have insomnia,Schlaflosigkeit haben
+nepassebattre.png,ne pas se battre,do not fight,nicht kämpfen
+essuyer.png,essuyer,to wipe,wischen
+rangersachambre.png,ranger sa chambre,to clean his room,sein Zimmer aufzuräumen
+gagner.png,gagner,to win,gewinnen
+creuser.png,creuser,to dig,graben
+aspirer.png,aspirer,to breathe in,absaugen
+emballer.png,emballer,to pack,verpacken
+interdire.png,interdire,to forbit,verbieten
+construire.png,construire,to build,bauen
+voyager.png,voyager,to travel,reisen
+pecher.png,pêcher,to fish,angeln
+chanter.png,chanter,to sing,singen
+direnon.png,dire non,to say no,nein sagen
+fairesesdevoirs.png,faire ses devoirs,to do homework,Hausaufgaben machen
+serpromenerensemble.png,se promener ensemble,to walk together,gemeinsam gehen
+entrer.png,entrer,to get in,eingeben
+nettoyer.png,nettoyer,to clean,reinigen
+cracher.png,cracher,to spit,spucken
+suer.png,suer,to sweat,schwitzen
+sessuier.png,s'essuier,to wipe oneself,abwischen
+monterescalier.png,monter les escalier,to climb stairs,die Treppen steigen
+pincer.png,pincer,to pinch,kneifen
+voir.png,voir,to see,sehen
+fairelescourses.png,faire les courses,to do shopping,einkaufen
+consoler.png,consoler,to comfort,trösten
+semoucher.png,se moucher,to snuff,die Nase putzen
+manger.png,manger,to eat,essen
+shabiller.png,s'habiller,to get dressed,anziehen
+sepeser.png,se peser,to weigh,sich wiegen
+deposer.png,déposer,to put down,hinterlegen
+boire.png,boire,to drink,trinken
+direoui.png,dire oui,to say yes,ja sagen
+traverser.png,traverser,to cross,überqueren
+selaverlesmains.png,se laver les mains,to wish hands,die Hände waschen
+sembrasser.png,s'embrasser,to embrace,sich küssen
+nepastoucher.png,ne pas toucher,do not touch,nicht berühren
+mesurer.png,mesurer,to measure,messen
+mettre.png,mettre,to put,stellen
+sentir.png,sentir,to smell,riechen
+camper.png,camper,to camp,zelten
+faireunbisou.png,faire un bisou,to kiss,küssen
+danser.png,danser,to dance,tanzen
+crier.png,crier,to scream,schreien
+nepaspousser.png,ne pas pousser,do not push,nicht schieben
+brun.png,brun,brown,braun
+rouge.png,rouge,red,rot
+jaune.png,jaune,yellow,gelb
+orange.png,orange,orange,orange
+gris.png,gris,grey,grau
+noir.png,noir,black,schwarz
+bleu.png,bleu,blue,blau
+rose_color.png,rose,pink,rosa
+blanc.png,blanc,white,weiß
+vert.png,vert,green,grün
+violet.png,violet,purple,lila
+police.png,police,police,Polizei
+train.png,train,train,Zug
+ambulance.png,ambulance,ambulance,Ambulanz
+tracteur.png,tracteur,tractor,Traktor
+pompier.png,pompier,firefighter,Feuerwehrmann
+bateau.png,bateau,ship,Schiff
+voiture.png,voiture,car,Auto
+moto.png,moto,bike,Motorrad
+camion.png,camion,truck,LKW
+avion.png,avion,plane,Flugzeug
+ventre.png,ventre,belly,Bauch
+coeur.png,coeur,heart,Herz
+oeil.png,oeil,eye,Auge
+index.png,index,forefinger,Zeigefinger
+nez.png,nez,nose,Nase
+bras.png,bras,arm,Arm
+langue.png,langue,tongue,Zunge
+poitrine.png,poitrine,chest,Brust
+poing.png,poing,fist,Faust
+tete.png,tête,head,Kopf
+cou.png,cou,neck,Hals
+mains.png,mains,hands,Hände
+jambes.png,jambes,legs,Beine
+dos.png,dos,back,Rücken
+genou.png,genou,knee,Knie
+oreille.png,oreille,ear,Ohr
+pieds.png,pieds,feet,Füße
+pelouse.png,pelouse,lawn,Rasen
+tournesol.png,tournesol,sunflower,Sonnenblume
+rose.png,rose,rose,Rose
+arbre.png,arbre,tree,Baum
+tulipe.png,tulipe,tulip,Tulpe
+mouton.png,mouton,sheep,Schaf
+zebre.png,zèbre,zebra,zebra
+chat.png,chat,cat,Katze
+cheval.png,cheval,horse,Pferd
+papillon.png,papillon,butterfly,Schmetterling
+poney.png,poney,pony,Pony
+canard.png,canard,duck,Ente
+tortue.png,tortue,turtle,Schildkröte
+araignee.png,araignée,spider,Spinne
+lapin.png,lapin,rabbit,Kaninchen
+cochon.png,cochon,pig,Schwein
+oiseau.png,oiseau,bird,Vogel
+chenille.png,chenille,caterpillar,Raupe
+poisson.png,poisson,fish,Fisch
+guepe.png,guêpe,wasp,Wespe
+chien.png,chien,dog,Hund
+oie.png,oie,goose,Gans
+crabe.png,crabe,crab,Krabbe
+lion.png,lion,lion,Löwe
+coquillage.png,coquillage,shell,Schale
+grenouille.png,grenouille,frog,Frosch
+pigeon.png,pigeon,pigeon,Taube
+vache.png,vache,cow,Kuh
+avanthier.png,avant hier,day before yesterday,vorgestern
+hier.png,hier,yesterday,gestern
+demain.png,demain,tomorrow,morgen
+apresdemain.png,après-demain,day after tomorrow,übermorgen
+aujourdhui.png,aujourd'hui,today,heute
+fache.png,fâché,angry,wütend
+fatigue.png,fatigué,tired,müde
+mechant.png,méchant,evil,böse
+malheureux.png,malheureux,unhappy,unglücklich
+peur.png,peur,fear,Angst
+savoureux.png,savoureux,tasty,schmackhaft
+impatient.png,impatient,impatient,ungeduldig
+maldegorge.png,mal de gorge,sore throat,Halsschmerzen
+fier.png,fier,proud,stolz
+embarrasse.png,embarrassé,embarassed,verlegen
+pleurer.png,pleurer,to weep ,weinen
+chaud.png,chaud,hot,warm
+timide.png,timide,shy,schüchtern
+avoirmalauxdents.png,avoir mal aux dents,toothache,Zahnschmerzen
+gentil.png,gentil,nice,nett
+etremalade.png,etre malade,to be sick,krank sein
+heureux.png,heureux,happy,glücklich
+etonne.png,étonné,suprised,erstaunt
+emu.png,ému,moved,bewegt
+bien.png,bien,good,gut
+mauvais.png,mauvais,bad,schlecht
+fort.png,fort,strong,stark
+rire.png,rire,to laugh,Lachen
+medecin.png,médecin,doctor,Artz
+plage.png,plage,beach,Strand
+jardin.png,jardin,garden,Garten
+hopital.png,hopital,hospital,KrankenHaus
+zoo.png,zoo,zoo,Zoo
+coiffeur.png,coiffeur,hairdresser,Friseur
+toilette.png,toilette,toilet,Toilette
+toboggan.png,toboggan,toboggan,Rutsche
+route.png,route,road,Straße
+terraindefoot.png,terrain de foot,football field,Fußballfeld
+maison.png,maison,house,Haus
+grenier.png,grenier,attic,Dachboden
+salledebain.png,salle de bain,bathroom,Badezimmer
+ecole.png,école,school,Schule
+chambre.png,chambre,bedroom,Zimmer
+cuisine.png,cuisine,kitchen,Küche
+cave.png,cave,cellar,Keller
+garage.png,garage,garage,Garage
+parcdattraction.png,parc d'attraction,amusement park,Freizeitpark
+aeroport.png,aéroport,airport,Flughafen
+magasin.png,magasin,store,Geschäft
+grele.png,grêle,hail,Hagel
+ete.png,été,summer,Sommer
+hiver.png,hiver,winter,Winter
+jour.png,jour,day,Tag
+neige.png,neige,snow,Schnee
+weekend.png,weekend,weekend,Wochenende
+orage.png,orage,storm,Gewitter
+pluie.png,pluie,rain,Regen
+tempete.png,tempête,tempest,Sturm
+automne.png,automne,autumn,Herbst
+vent.png,vent,wind,Wind
+nuit.png,nuit,night,Nacht
+printemps.png,printemps,spring,Frühling
+bols.png,bols,bolws,Schüssel
